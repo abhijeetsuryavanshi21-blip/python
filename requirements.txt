@@ -1,0 +1,19 @@
+# Core Machine Learning & Data Science Libraries
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+
+# Advanced ML & Statistics
+xgboost
+lightgbm
+statsmodels
+joblib
+
+# Data handling & Excel support
+openpyxl
+
+# Jupyter Notebook support
+ipykernel
